@@ -10,70 +10,70 @@ ${runtime}
 
 *TOOLS/CONVERTER*
 • ${prefix}sticker
-• ${prefix}swm *text | text*
-• ${prefix}ttp *text*
-• ${prefix}attp *text*
-• ${prefix}toimg *reply image*
-• ${prefix}tomp3 *reply video*
+• ${prefix}swm
+• ${prefix}ttp 
+• ${prefix}attp 
+• ${prefix}toimg 
+• ${prefix}tomp3 
 
 *GROUPS MENU*
-• ${prefix}kick *@tag*
-• ${prefix}add *62855xxx*
-• ${prefix}group *open/close*
-• ${prefix}setppgroup *reply image*
-• ${prefix}setgcname *text*
-• ${prefix}setgcdesk *text*
-• ${prefix}hidetag *text*
+• ${prefix}kick 
+• ${prefix}add 
+• ${prefix}group 
+• ${prefix}setppgroup 
+• ${prefix}setgcname 
+• ${prefix}setgcdesk 
+• ${prefix}hidetag 
 • ${prefix}linkgroup
-• ${prefix}antilink *on/off*
-• ${prefix}welcome *on/off*
-• ${prefix}setwelcome *text*
-• ${prefix}changewelcome *text*
-• ${prefix}delsetwelcome *text*
-• ${prefix}left *on/off*
-• ${prefix}setleft *text*
-• ${prefix}changeleft *text*
-• ${prefix}delsetleft *text*
+• ${prefix}antilink 
+• ${prefix}welcome 
+• ${prefix}setwelcome 
+• ${prefix}changewelcome 
+• ${prefix}delsetwelcome 
+• ${prefix}left 
+• ${prefix}setleft 
+• ${prefix}changeleft 
+• ${prefix}delsetleft 
 
 *STORE MENU*
-• ${prefix}addlist *key@response*
-• ${prefix}dellist *key*
-• ${prefix}updatelist *key@response*
+• ${prefix}addlist 
+• ${prefix}dellist 
+• ${prefix}updatelist 
 • ${prefix}resetlist
 • ${prefix}list
 • p
 • d
-• ${prefix}setp *text*
-• ${prefix}changep *text*
-• ${prefix}delsetp *text*
-• ${prefix}setd *text*
-• ${prefix}changed *text*
-• ${prefix}delsetd *text*
+• ${prefix}setp 
+• ${prefix}changep 
+• ${prefix}delsetp 
+• ${prefix}setd 
+• ${prefix}changed 
+• ${prefix}delsetd 
 
 *DOWNLOADERS*
-• ${prefix}youtube *url*
-• ${prefix}instagram *url*
-• ${prefix}tiktok *url*
+• ${prefix}youtube 
+• ${prefix}instagram 
+• ${prefix}tiktok 
 
 *BAILEYS*
-• ${prefix}towame *number/reply number*
-• ${prefix}quoted *reply container*
-• ${prefix}fakehidetag *text*
-• ${prefix}react *emoji*
+• ${prefix}towame 
+• ${prefix}quoted 
+• ${prefix}fakehidetag 
+• ${prefix}react 
 
 *OWNERS MENU*
-• ${prefix}setlogo *reply image*
-• ${prefix}join *link group*
+• ${prefix}setlogo 
+• ${prefix}join 
 • ${prefix}leave
-• ${prefix}setexif *text | text*
-• ${prefix}setprefix *nopref/multi/#*
-• ${prefix}setppbot *reply image*
+• ${prefix}setexif 
+• ${prefix}setprefix 
+• ${prefix}setppbot 
 • ${prefix}self
 • ${prefix}public
-• ${prefix}broadcast *text/reply image or video*
-• ${prefix}bcsewa *text/reply image or video*
-• ${prefix}addsewa *linkgroup waktu*
-• ${prefix}delsewa *id*
+• ${prefix}broadcast 
+• ${prefix}bcsewa 
+• ${prefix}addsewa 
+• ${prefix}delsewa 
 • ${prefix}checksewa
 
 *EXECUTE*
